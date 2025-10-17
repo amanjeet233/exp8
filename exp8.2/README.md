@@ -12,3 +12,4 @@ We run `yarn start` to start an HTTP server that runs on http://localhost:8080. 
 
 - [CodeSandbox — Docs](https://codesandbox.io/docs)
 - [CodeSandbox — Community](https://codesandbox.community)
+<img width="665" height="317" alt="image" src="https://github.com/user-attachments/assets/c5ff63ba-8b4f-4f52-aa4e-318f98624ec6" />
